@@ -23,6 +23,16 @@
         patente:  "JJK116",
         vendido:  true
     }
+    {
+        marca: "ford", 
+        modelo: "Fiesta", 
+        color:  "azul", 
+       anio:  2019 ,
+        km:   200,
+        precio:  150000, 
+        cuotas:  12,
+        patente:  "APL123",
+        vendido:  false}
 ]
 
 module.exports = autos;
